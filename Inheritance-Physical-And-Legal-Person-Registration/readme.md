@@ -1,8 +1,9 @@
 
 ![Pasted image 20230510112112](https://github.com/FredPitol/Inheritance-Physical-And-Legal-Person-Registration/assets/61964787/239024d1-f953-44cb-91a3-cce21ce495b3)
 
-
-Primeiro exercício sobre herança, me foi passado esse diagrama de classe para a criação de um software a partir dele. 
+## [Link para códigos](https://github.com/FredPitol/Java-College-Projects/tree/main/Inheritance-Physical-And-Legal-Person-Registration/src/exercise1/pkg3)
+# Passo a passo
+Foi passado esse diagrama de classe para a criação de um software a partir dele. 
 
 1. Criei a classe pai `Pessoa` com seus respectivos atributos e método 
 2. Criei a classe `PessoaFisica` como filha da classe `Pessoa` com seus respectivos atributos e métodos 
